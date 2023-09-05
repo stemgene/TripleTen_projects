@@ -1,7 +1,52 @@
-# Project description
+# Project Destription
 
-The focus of this project is to provide you with additional practice with common software engineering tasks. These will augment and complement your data skills, and make you a more attractive job candidate to potential employers.
+This project is a demo of Streamlit. I analyzed a table of used car's price and display some plots via Streamlit.
 
-The tasks are: creating and managing python virtual environments, developing a web application, and deploying it to a cloud service that will make it accessible to the public.
+The URL is https://tossprob.onrender.com/
 
-In this project, we are providing you with a dataset you are already familiar with: a dataset of car sales advertisements. However, in this project, the focus will not be on the dataset or the analysis, and thus you are free, and even encouraged, to choose any dataset that you want.
+There is a data frame to show the details of data.
+
+There are two check-boxes: `Show Histograms` and `Show Scatters`. If click these check-boxes, the associated plots will display on the page.
+
+# Code explaination: 
+
+## `data_preprocess.py`
+
+1. Clean data:
+    * Data type
+    * Missing values
+    * Duplicates
+    * Check outliers
+
+2. Enrich data:
+    * Break down the `model` into `make` and `model`
+
+## `app.py`
+
+### Display data frame
+
+### Check-boxes
+
+### Histogram
+
+1. Vehicle types by manufacturer
+
+2. Histogram of `condition` vs `model_year`
+
+3. Compare price distribution between manufacturers
+
+### Scatters
+
+1. Price distribution by `model_year` and `model`
+
+# The project structure
+$ tree
+.
+├── README.md
+├── app.py
+├── data_preprocess.py
+├── vehicles_us.csv
+└── notebooks
+    └── EDA.ipynb
+└── .streamlit
+    └── config.toml 
