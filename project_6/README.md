@@ -4,4 +4,4 @@ You're working as an analyst for Zuber, a new ride-sharing company that's launch
 Working with a database, you'll analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 
 # Table scheme
-
+![img](datasets/Image.png)
