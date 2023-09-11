@@ -51,8 +51,6 @@ It is similar to MAE, but is expressed in relative values instead of absolute on
 
 Here’s how sMAPE is calculated:
 
-$$sMAPE = \frac{1}{N}\sum{\frac{|y_i-\hat{y_i}|}{(|y_i|+|\hat{y_i}|)/2}\times100\%}$$
-
 $$sMAPE = \frac{1}{N}\sum_{i=1}^{N}\frac{|y_i-\hat{y_i}|}{(|y_i|+|\hat{y_i}|)/2}\times100\%$$
 
 
@@ -62,7 +60,7 @@ We need to predict two values:
 
 The final metric includes the two values:
 
-$$Final\ sMAPE=25\% \times sMAPE(rougher) + 75\% \times sMAPE(final)$$
+$$Final\ sMAPE=0.25 \times sMAPE(rougher) + 0.75 \times sMAPE(final)$$
 
 ## Project process
 
