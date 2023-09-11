@@ -14,4 +14,4 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 | 7 | Project of machine learning | The project task was to develop a model that will pick the right plan. | Machine Learning Models |
 | 8 | Project of supervised Learning | The project task was to predict whether a customer will leave the bank soon | Machine Learning Models, unbalanced data |
 | 9 | Project of finding the best well | The project task was to find the best place for a new well. | Machine Learning Models |
-| 2 | Instacart Project | The project task was to clean up the data and prepare a report that gives insight into the shopping habits of Instacart customers. | EDA |
+| 10 | Gold recover prediction | The project task was to predict the amount of gold recovered from gold ore. | EDA, Machine Learning Models |
