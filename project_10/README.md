@@ -34,7 +34,7 @@ I need to simulate the process of recovering gold from gold ore.
 
 Use the following formula to simulate the recovery process:
 
-$$Recovery = \frac{C * (F - T)}{F * (C - T)} * 100%$$
+$$Recovery = \frac{C * (F - T)}{F * (C - T)} * 100\%$$
 
 where:
 * C — share of gold in the concentrate right after flotation (for finding the rougher concentrate recovery)/after purification (for finding the final concentrate recovery)
