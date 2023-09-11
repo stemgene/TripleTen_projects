@@ -16,6 +16,8 @@ Mined ore undergoes primary processing to get the ore mixture or rougher feed, w
 
 Let's break down the process:
 
+![img](https://github.com/stemgene/TripleTen_projects/blob/main/datasets/project10_god_mix_process.jpg)
+
 1. Flotation
 
 Gold ore mixture is fed into the float banks to obtain rougher Au concentrate and rougher tails (product residues with a low concentration of valuable metals).
