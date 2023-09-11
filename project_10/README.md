@@ -53,6 +53,9 @@ Here’s how sMAPE is calculated:
 
 $$sMAPE = \frac{1}{N}\sum{\frac{|y_i-\hat{y_i}|}{(|y_i|+|\hat{y_i}|)/2}\times100\%}$$
 
+$$sMAPE = \frac{1}{N}\sum_{i=1}^{N}\frac{|y_i-\hat{y_i}|}{(|y_i|+|\hat{y_i}|)/2}\times100\%$$
+
+
 We need to predict two values:
 1. rougher concentrate recovery rougher.output.recovery
 2. final concentrate recovery final.output.recovery
