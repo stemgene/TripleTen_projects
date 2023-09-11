@@ -34,7 +34,7 @@ I need to simulate the process of recovering gold from gold ore.
 
 Use the following formula to simulate the recovery process:
 
-$$Recovery = \frac{C * (F - T)}{F * (C - T)} * 100&#37;$$
+$$Recovery = \frac{C * (F - T)}{F * (C - T)} \times 100\%$$
 
 where:
 * C — share of gold in the concentrate right after flotation (for finding the rougher concentrate recovery)/after purification (for finding the final concentrate recovery)
@@ -51,7 +51,7 @@ It is similar to MAE, but is expressed in relative values instead of absolute on
 
 Here’s how sMAPE is calculated:
 
-$$sMAPE = \frac{1}{N}\sum{\frac{|y_i-\hat{y_i}|}{(|y_i|+|\hat{y_i}|)/2}*100\%}$$
+$$sMAPE = \frac{1}{N}\sum{\frac{|y_i-\hat{y_i}|}{(|y_i|+|\hat{y_i}|)/2}\times100\%}$$
 
 We need to predict two values:
 1. rougher concentrate recovery rougher.output.recovery
@@ -59,7 +59,7 @@ We need to predict two values:
 
 The final metric includes the two values:
 
-$$Final\ sMAPE=25% * sMAPE(rougher) + 75% * sMAPE(final)$$
+$$Final\ sMAPE=25\% \times sMAPE(rougher) + 75\% \times sMAPE(final)$$
 
 ## Project process
 
