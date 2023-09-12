@@ -16,7 +16,8 @@ Projects I worked on while attending the Data Science TripleTen Bootcamp.
 | 9 | Project of finding the best well | The project task was to find the best place for a new well. | Machine Learning Models |
 | 10 | Gold recover prediction | The project task was to predict the amount of gold recovered from gold ore. | EDA, Machine Learning Models |
 | 11 | Project related to Linear Algebra | The project task was to find customers who are similar to a given customer. | EDA, Machine Learning Models, KNN classification |
-| 10 | Gold recover prediction | The project task was to predict the amount of gold recovered from gold ore. | EDA, Machine Learning Models |
-| 10 | Gold recover prediction | The project task was to predict the amount of gold recovered from gold ore. | EDA, Machine Learning Models |
-| 10 | Gold recover prediction | The project task was to predict the amount of gold recovered from gold ore. | EDA, Machine Learning Models |
-| 10 | Gold recover prediction | The project task was to predict the amount of gold recovered from gold ore. | EDA, Machine Learning Models |
+| 12 | Project of analyzing models | The project task was to train different models with various hyperparameters and analyze the speed and quality of the models. | EDA, Machine Learning Models |
+| 13 | Time series project | The project task was to predict the amount of taxi orders for the next hour. | Time series, Machine Learning Models |
+| 14 | NLP project | The project task was to train a model to automatically detect negative reviews. | NLP |
+| 15 | CV project | The project task was to evaluate the use's age by the photo. | Computer vision |
+| 16 | project of predicting prune | The project task was to predict the prune customers for a telecom company. | EDA, Machine Learning Models, fine tuning |
